@@ -1,0 +1,15 @@
+.hello{
+   
+    border: 5px solid ;
+    border-radius: 0px;
+ 
+    padding: 50px;
+    margin: 100px;
+    
+}
+
+.hello2{
+    border: 5px solid ;
+    border-radius: 20px;
+    margin: 50px    ;
+}
